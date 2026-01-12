@@ -31,6 +31,9 @@ Robustness tested via Walk-Forward Analysis
 * **Tools:** Python (TensorFlow, Keras), Fine-Tuning
 * **Goal:** Multi-class Classification of blood cell images
 
+---
+**Contact:** [al.torazzi@gmail.com] | [LinkedIn](www.linkedin.com/in/alessandro-torazzi-7240152a1)
+
 
 <!--
 **altorazzi/altorazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
