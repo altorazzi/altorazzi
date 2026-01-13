@@ -23,12 +23,12 @@ Robustness tested via Walk-Forward Analysis
 
 **2. [Mars Terrain Segmentation](https://github.com/altorazzi/SemanticSegmentation-UNet)**
 
-* **Tools:** Python (TensorFlow, Keras), U-Net
+* **Tools:** Python (TensorFlow, Keras), U-Net, ASPP, Ensembling
 * **Goal:** Semantic segmentation of Mars surface images to assist rover pathfinding
 
 **3. [Blood Cells Classification](https://github.com/altorazzi/Classification-BloodCells)**
 
-* **Tools:** Python (TensorFlow, Keras), Fine-Tuning
+* **Tools:** Python (TensorFlow, Keras), Transfer-Learning
 * **Goal:** Multi-class Classification of blood cell images
 
 ---
