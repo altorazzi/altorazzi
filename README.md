@@ -19,7 +19,7 @@ Robustness tested via Walk-Forward Analysis
 **1. [Index Replication](https://github.com/altorazzi/IndexReplica-KalmanFilter)**
 
 * **Tools:** Python, Kalman Filter, Pair Trading
-* **Goal:** Replicating an unknown stock index using a basket of Futures contracts
+* **Goal:** Replicating a Black Box index via Cost-Adaptive Kalman Filter
 
 **2. [Mars Terrain Segmentation](https://github.com/altorazzi/SemanticSegmentation-UNet)**
 
