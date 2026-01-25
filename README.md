@@ -4,7 +4,7 @@
 Proud member of [Blackswan Quants](https://github.com/blackswan-quants)
 
 ### Current Featured Project: [Hurst-Regime Pullback Strategy](https://github.com/blackswan-quants/hurst-pullback)
-Developed as part of one of the Blackswan Quants Research teams
+Developed as part of one of the Blackswan Quant Research teams
 
 A mean-reversion strategy for Index Futures that adapts to market regimes combining the use of the Hurst Exponent with a RSI pullback strategy
 
