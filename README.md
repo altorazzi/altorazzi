@@ -1,7 +1,7 @@
 ## Alessandro Torazzi
 **Mathematical Engineering - Quantitative Finance @ Politecnico di Milano**
 
-Proud member of [Blackswan Quants] (https://github.com/blackswan-quants)
+Proud member of [Blackswan Quants](https://github.com/blackswan-quants)
 
 Currently focusing on **Optimal Execution** and **Systematic Trading** 
 
